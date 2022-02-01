@@ -1,4 +1,4 @@
-# This is a very is a very simple implementation of Increase Pay Checkout Lite
+# This is a very simple implementation of Increase Pay Checkout Lite
 ## The Checkout Lite will allows checkout customization by only taking care of the subscription payment method.
 
 ## 💡 Requirements
